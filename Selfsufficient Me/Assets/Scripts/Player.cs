@@ -10,4 +10,6 @@ public class Player : MonoBehaviour
     {
         inventory = new Inventory(21);
     }
+
+    // dit is een verandering
 }
